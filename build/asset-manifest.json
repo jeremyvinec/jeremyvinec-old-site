@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2bd11bf.chunk.css",
+    "main.js": "/static/js/main.dbee64fe.chunk.js",
+    "main.js.map": "/static/js/main.dbee64fe.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.8cd58708.js",
+    "runtime~main.js.map": "/static/js/runtime~main.8cd58708.js.map",
+    "static/js/2.c920f763.chunk.js": "/static/js/2.c920f763.chunk.js",
+    "static/js/2.c920f763.chunk.js.map": "/static/js/2.c920f763.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4004794e40466ee51dcbf73a86d58202.js": "/precache-manifest.4004794e40466ee51dcbf73a86d58202.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d2bd11bf.chunk.css.map": "/static/css/main.d2bd11bf.chunk.css.map",
+    "static/media/main.scss": "/static/media/background.d812182f.jpeg",
+    "static/media/bps.png": "/static/media/bps.106651aa.png",
+    "static/media/cv.png": "/static/media/cv.7bb24c59.png",
+    "static/media/ivtracer-app.png": "/static/media/ivtracer-app.f2cfab83.png",
+    "static/media/mobile.jpg": "/static/media/mobile.dc7a62ee.jpg",
+    "static/media/optitrainer.png": "/static/media/optitrainer.98786ded.png",
+    "static/media/photo.png": "/static/media/photo.ce62042b.png",
+    "static/media/webapp.jpg": "/static/media/webapp.cf68cc93.jpg",
+    "static/media/yuka.jpg": "/static/media/yuka.8c1f799d.jpg"
+  }
+}
